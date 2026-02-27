@@ -1,0 +1,7 @@
+Para tratar o dataset de alunos ativos por ano por curso, para cada .csv nós:
+
+Separamos as informações de turno, e tipo (LIC e BAC) para colunas separadas próprias
+Depois, deletamos essas informações da coluna de origem 'Curso' e então removemos
+os caracteres não alfanuméricos presentes e removemos excesos de espaços em brancos
+nos textos dessa coluna.
+
